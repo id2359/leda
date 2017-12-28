@@ -221,4 +221,8 @@ char * newString(char *);
 int yyerror(char *);
 void yyserror(char *, char *);
 
+#if defined(__MACH__)
+#include <stdlib.h>
+#else
 # include <malloc.h>
+#endif
