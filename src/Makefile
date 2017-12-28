@@ -1,4 +1,4 @@
-CFLAGS = -g -O 
+CFLAGS = -g -O -m32
 CC = gcc 
 
 #
