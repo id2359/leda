@@ -1,5 +1,8 @@
 Timothy Budd's Leda code.
 
-Fixed minor issues in type decs.
+See http://web.engr.oregonstate.edu/~budd/Books/leda/
+
+Fixed minor issues in type decs when compiling on Ubuntu 16.04.3
+
 
 
